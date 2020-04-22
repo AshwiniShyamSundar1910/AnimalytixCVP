@@ -1,0 +1,9 @@
+RemoveDynamicRegistrar:true
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/TipCalc.iOS.exe
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/System.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/System.Core.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/MvvmCross.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.app:/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/mtouch-cache/1-Link/Animalytix.Core.dll

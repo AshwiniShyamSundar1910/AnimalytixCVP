@@ -1,0 +1,27 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip

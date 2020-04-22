@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{B005BE9B-CB6F-4378-AAC2-EF9D57188C55}|Default">
+  <MonoDevelop.Ide.ItemProperties.Animalytix.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.16d706c0d7073f48a74d203af5542f0b8b1f6117" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animalytix.iOS/Views/LoginView.cs">
+    <Files>
+      <File FileName="Animalytix.iOS/Views/LoginView.cs" Line="27" Column="1" />
+      <File FileName="Animalytix.iOS/Views/LoginView.xib" />
+      <File FileName="Animalytix.iOS/Info.plist" />
+      <File FileName="Animalytix.Core/ViewModels/LoginViewModel.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Animalytix" expanded="True">
+            <Node name="Animalytix.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="Animalytix.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="LoginView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Animalytix.Android/Animalytix.Android.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

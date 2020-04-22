@@ -1,0 +1,76 @@
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.exe
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/TipCalc.iOS.pdb
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/MvvmCross.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/MvvmCross.pdb
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/Animalytix.Core.dll
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/bin/iPhone/Debug/Animalytix.Core.pdb
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/Animalytix.iOS.csprojAssemblyReference.cache
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/Animalytix.iOS.csproj.CoreCompileInputs.cache
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/Animalytix.iOS.csproj.CopyComplete
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/TipCalc.iOS.exe
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/TipCalc.iOS.pdb
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/actool/_PartialAppManifest.items
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/coremlc/_PartialAppManifest.items
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Entitlements.plist
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg@3x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus@3x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock@3x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo@3x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus@3x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user@2x.png
+/Users/ashwini/Documents/Animalytix/TipCalc.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/actool/_PartialAppManifest.items
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/coremlc/_PartialAppManifest.items
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/bg@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock-on-focus@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon ionic-ios-lock@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Logo@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user-on-focus@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user@2x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Icon awesome-user@3x.png
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/Entitlements.plist
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/device-builds/iphone10.2-13.3.1/optimized/
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/Animalytix.iOS.csprojAssemblyReference.cache
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/Animalytix.iOS.csproj.CoreCompileInputs.cache
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/TipCalc.iOS.exe
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/TipCalc.iOS.pdb
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/TipCalc.iOS.exe
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/TipCalc.iOS.pdb
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/MvvmCross.dll
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/MvvmCross.pdb
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/Animalytix.Core.dll
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/bin/iPhone/Debug/Animalytix.Core.pdb
+/Users/ashwini/Documents/Animalytix/Animalytix.iOS/obj/iPhone/Debug/Animalytix.iOS.csproj.CopyComplete
