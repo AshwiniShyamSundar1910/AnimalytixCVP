@@ -586,4 +586,5 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
+
 # End of https://www.gitignore.io/api/xcode,android,visualstudio,xamarinstudio,androidstudio
