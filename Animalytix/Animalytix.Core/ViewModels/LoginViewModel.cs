@@ -6,6 +6,7 @@ namespace Animalytix.Core.ViewModels
     {
         public LoginViewModel()
         {
+            //changed here
         }
     }
 }
